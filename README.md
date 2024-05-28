@@ -19,3 +19,10 @@ Where 	Pattern1 = sequence
 	Pattern2 = sequence
 
 The script will report the detected patterns in the terminal and output a txt file with a list of sequences found, including flanking sequences (x100 bp on each side).
+
+Developed by Ioanna Karamichali, PhD
+Institute of Applied Biosciences at the Centre for Research and Technology Hellas (INAB|CERTH)
+In collaboration with:
+Ass. Prof. Panagiotis Madesis
+PI Zoi Hilioti, PhD
+Nestor Petrou, MSc
