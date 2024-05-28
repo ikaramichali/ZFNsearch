@@ -26,3 +26,5 @@ In collaboration with:
 Ass. Prof. Panagiotis Madesis,  
 Dr. Zoi Hilioti and 
 Nestor Petrou, MSc.
+
+Please cite using: DOI: 10.5281/zenodo.11369976 
