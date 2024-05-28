@@ -23,6 +23,6 @@ The script will report the detected patterns in the terminal and output a txt fi
 Developed by Ioanna Karamichali, PhD
 Institute of Applied Biosciences at the Centre for Research and Technology Hellas (INAB|CERTH)
 In collaboration with:
-Ass. Prof. Panagiotis Madesis
-PI Zoi Hilioti, PhD
-Nestor Petrou, MSc
+Ass. Prof. Panagiotis Madesis,  
+Dr. Zoi Hilioti and 
+Nestor Petrou, MSc.
