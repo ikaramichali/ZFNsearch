@@ -6,7 +6,7 @@ This scrip can be applied for any pair of specific sequences that is interrupted
 Steps of analysis 
 (All files need to be in the same folder, or whole paths need to be provided)
 
-1) Prepare nucleic sequence or whole genome (FASTA file) to search for patters (Need to do it first, and only once per input).
+1) Prepare nucleic sequence reference or whole genome (FASTA file) to search for patters (Need to do it first, and only once per sequence reference).
 In case you have used this sequence before go directrly to step 2.
 Usage:
 bash Prepare_Genome.sh Any_FASTA_file
